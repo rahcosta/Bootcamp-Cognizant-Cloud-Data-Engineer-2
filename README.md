@@ -1,6 +1,6 @@
 # Bootcamp Cognizant Cloud Data Engineer 2
 ---
-## Curso feitos pela plataforma:
+## Checklist de Cursos Realizados na Plataforma:
 - [x] Pensamento Computacional 2h
 - [x] Introdução ao Git a ao GitHub 5h
 - [x] Criando Seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso 1h
