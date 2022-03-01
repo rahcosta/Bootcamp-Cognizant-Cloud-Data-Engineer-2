@@ -1,5 +1,4 @@
 # Bootcamp Cognizant Cloud Data Engineer 2
- Participando do Bootcamp da Digital Innovation One
 ---
 ## Curso feitos pela plataforma:
 - [x] Pensamento Computacional 2h
