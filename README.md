@@ -1,11 +1,13 @@
 # Bootcamp Cognizant Cloud Data Engineer 2
+##### Data de Atualização: 04/03/2022
 ---
+
 ## Checklist de Cursos Realizados na Plataforma:
 - [x] Pensamento Computacional 2h
 - [x] Introdução ao Git a ao GitHub 5h
 - [x] Criando Seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso 1h
-- [ ] Linux: Introdução ao Sistema Operacional e Terminal 2h
-- [ ] Linux: Diretórios e Comandos Essenciais 2h
+- [x] Linux: Introdução ao Sistema Operacional e Terminal 2h
+- [x] Linux: Diretórios e Comandos Essenciais 2h
 - [ ] Linux: Fundamentos de Redes e Comandos Avançados 2h
 - [ ] Linux: Gerenciamento de Pacotes 2h
 - [ ] Linux: Controle de Usuários e (Des)Compactação 3h
